@@ -34,3 +34,4 @@
 - [Решение](https://github.com/moseevaevgeniya/EasyBot/blob/8deef00569ec56602048ebb5904be2be01383052/Case-1/Test_Easy_bot-1.ipynb)
 
 ### 4. Стеки: 
+- Jupyter-notebook,Python,sqlite3, pandas  
